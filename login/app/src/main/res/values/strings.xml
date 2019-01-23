@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="not_register">Not Register?</string>
+    <string name="register">register</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="btn_register">Register</string>
+    <string name="aleardy_registered">Aleardy Registered?</string>
+    <string name="btn_login">Login</string>
+    <!--<string name="login">Login</string>-->
+    <string name="tw_login">LOGIN</string>
+    <string name="bwn_login">LOGIN..</string>
+    <!--<string name="password">Password</string>-->
+</resources>
